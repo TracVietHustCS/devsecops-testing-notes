@@ -1,0 +1,49 @@
+{
+  "html_title": "DevSecOps và Kiểm thử tự động notes · Trác Việt",
+  "doc_suffix": "DevSecOps notes",
+  "storage": "dst",
+  "brand_aria": "DevSecOps và Kiểm thử tự động notes",
+  "mk": "sec",
+  "brand_text": [
+    "DevSecOps · Auto Test",
+    "notes"
+  ],
+  "home_url": "https://tracviethustcs.github.io/",
+  "nav": [
+    [
+      "Nguyên tắc",
+      "#devsecops-principles"
+    ],
+    [
+      "Kiểm thử",
+      "#test-strategy"
+    ],
+    [
+      "SAST",
+      "#sast"
+    ],
+    [
+      "Phụ thuộc",
+      "#sca-sbom"
+    ],
+    [
+      "DAST",
+      "#dast"
+    ],
+    [
+      "Luyện tập",
+      "#quiz-sec"
+    ]
+  ],
+  "colors": {
+    "acc": "#b3261e",
+    "acc_d": "#8c1d18",
+    "acc_dk": "#ff8a80",
+    "onacc_dk": "#2b0a08",
+    "navbg": "#2a1315",
+    "navbg_dk": "#201012",
+    "mark": "#d93c32",
+    "mark_ink": "#ffffff"
+  },
+  "footer": "Ghi chú tự học, tự soạn, không phải tài liệu chính thức của OWASP, các nhà cung cấp công cụ hay tổ chức nào. Tên công cụ, cờ lệnh và quy tắc thay đổi nhanh: hãy đối chiếu tài liệu hiện hành. <b>Chỉ quét và kiểm thử hệ thống bạn sở hữu hoặc được phép bằng văn bản.</b> Quét trái phép là vi phạm pháp luật."
+}
